@@ -1,0 +1,22 @@
+{
+      "Eduardo": {
+            "Saldo": 1000000.0,
+            "Email": "dudufen03@gmail.com",
+            "Limite": 500000.0
+      },
+      "Giovane": {
+            "Saldo": 0.0,
+            "Email": "giovane02@gmail.com",
+            "Limite": 900.0
+      },
+      "Yuri": {
+            "Saldo": 0.0,
+            "Email": "yuri02@gmail.com",
+            "Limite": 2000.0
+      },
+      "Fred": {
+            "Saldo": 500.0,
+            "Email": "fred04@gmail.com",
+            "Limite": 500.0
+      }
+}
